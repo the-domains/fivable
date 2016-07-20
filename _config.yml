@@ -1,0 +1,14 @@
+layout_spectrum: 0.4370600050315261
+typography_spectrum: 0.15404419344849885
+color:
+  brandStrength: 0.4159260983578861
+  lightness: 0.15339760528877378
+  saturation: 0.8552409855183214
+  rhythmicContrast: 0.017016040859743953
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Fivable
